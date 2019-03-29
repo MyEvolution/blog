@@ -1,2 +1,2 @@
 # blog
-An easy tutorial of java web by building a blog.Related articles:http://www.wlsdzyzl.top:8080/evolution/post?pid=4
+An easy tutorial of java web by building a blog.Related articles:http://wlsdzyzl.xyz/evolution/post?pid=8
